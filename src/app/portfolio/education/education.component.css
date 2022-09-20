@@ -1,0 +1,22 @@
+/* .category {
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #323b43;
+  }
+  .ed-heading{
+    background-color: rgb(30, 32, 59);
+    color: whitesmoke;
+    text-align: center;
+  }  */
+  .ed-heading{
+    background-color: rgb(25, 25, 77);
+  }
+  .category{
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(34, 34, 91);
+  }
+  .main-heading{
+    text-align: center;
+    
+  }

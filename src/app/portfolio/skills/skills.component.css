@@ -1,0 +1,54 @@
+.skills{
+    margin-top: 60px;
+}
+.progress-container .progress-badge {
+    color: #888;
+    font-size: 0.8571em;
+    text-transform: uppercase;
+  }
+  .progress-container .progress {
+    height: 1px;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    /* background: rgba(222, 222, 222, 0.8); */
+    margin-top: 14px;
+  }
+  .progress-container .progress .progress-bar {
+    -webkit-box-shadow: none;
+            box-shadow: none;
+     
+     
+  }
+  .progress-container .progress .progress-value {
+    position: absolute;
+    top: 2px;
+    right: 0;
+    color: #00334D;
+    font-size: 0.9571em;
+  }
+  .progress-container.progress-primary .progress-bar {
+    background: #00334D;
+    height: 20px;
+  }
+  .progress-container.progress-primary .progress-value,
+  .progress-container.progress-primary .progress-badge {
+    color: #00334D;
+  }
+  .section {
+    padding: 70px 0;
+    position: relative;
+    background: #FFFFFF;
+  }
+  .card{
+     box-shadow: cadetblue;
+     margin-bottom: 20px;
+     box-shadow: 5px 5px #d1c5c5;
+  }
+  .card .card-body{
+      margin-top: 5px;
+      
+     
+       
+  }
+  

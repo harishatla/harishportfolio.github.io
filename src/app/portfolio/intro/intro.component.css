@@ -1,0 +1,167 @@
+/* *{
+    margin: 0;
+    padding: 0;
+     
+}
+.profile-page .page-header{
+    min-height: 400px;
+    margin-top:60px;
+}
+.profile-page{
+    margin-top: 10px;
+}
+.profile-page .profile-container {
+    color: #FFFFFF;
+  } 
+   .profile-page .photo-container {
+  
+    border-radius: 50%;
+    margin: 0 auto;
+    background-attachment: fixed;
+  }
+  .profile-page .page-header-image{
+    background-image: url('https://images.unsplash.com/photo-1510936111840-65e151ad71bb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=890&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+  .page-header footer {
+    bottom: 0;
+    width: 100%;
+  }
+
+  .cc-profile-image a {
+    width:"300";
+    height:"250";
+    font-weight: 150px;
+    background-attachment: fixed;
+    align-items: center;
+    
+  }
+  
+  .cc-profile-image img {
+    border-radius: 50%;
+    height: 230px;
+    width: 180px;
+    padding: 0;
+    margin: 0;
+    margin-left: 30px;
+    border: 15px solid transparent;
+    margin-top: 5%;
+    text-align: center;
+  }
+  .title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1cm;
+    font-weight: 300;
+    margin-left: 30px;
+  }
+  .button-container{
+    text-align: center;
+    
+  }
+  .button-container .btn{
+    width: 45px;
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-right: 4px;
+    background-color: #3a2a7c;
+    margin-bottom: 10px;
+  }
+  .button-container{
+    margin-left: 30px;
+  }
+  .buttons .btn{
+    color: white;
+    background-color: #3a2a7c;
+    align-items: center;
+    width:fit-content;
+  }
+  .buttons{
+    margin-left: 30px;
+  } */
+.banner-area{
+  background-image: url('https://images.unsplash.com/photo-1603366615917-1fa6dad5c4fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+  background-color: rgb(91, 124, 154);
+  width:100%;
+  height: 100vh;
+  background-size: cover;
+   
+}
+.content-2{
+  height:100%;
+  display: flex;
+  justify-content: center;
+}
+.content-area{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+
+}
+.content{
+  /* text-align: center; */
+
+}
+.profile-pic{
+  margin-top: 20%;
+}
+.profile-pic a img{
+  border-radius: 50%;
+  height: 220px;
+  width: 200px;
+}
+.name h2{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.name p{
+  color: white;
+  font-size: 15px;
+  text-align: center;
+}
+.button-cv-hireme{
+  justify-content: center;
+  text-align: center;
+}
+.button-cv-hireme a{
+  margin-top: 2px;
+  margin-right: 3px;
+   
+}
+.button-cv-hireme .btn{
+  background-color: rgb(15, 15, 15);
+  color: white;
+  border: 1px solid white;
+   
+}
+.button-cv-hireme .btn:hover{
+  background-color: rgb(60, 60, 69);
+}
+.social-media a{
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(10, 10, 11);
+  width:40px;
+  margin-right: 3px;
+  margin-top: 10px;
+  height:40px;
+  border-radius: 20px;
+  color: white;
+  border: 1px solid white;
+}
+
+/* .social-media .btn{
+  text-align: center;
+   background-color: white;
+} */
+   
+ 
+ 
+
+    
